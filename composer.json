@@ -4,7 +4,7 @@
     "keywords": ["data-table", "datatable", "data table", "lakipatel", "laukikpatel", "laukik", "patel", "laravel data table", "laravel"],
     "type": "library",
     "require": {
-        "maatwebsite/excel": "^2.1"
+        "maatwebsite/excel": "^3.1"
     },
     "autoload": {
         "psr-4": {
